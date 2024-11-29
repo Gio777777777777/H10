@@ -2,7 +2,7 @@ import React from "react";
 import Timer from "./components/Timer";
 import ZoomImage from "./components/ZoomImage";
 import VideoPlayer from "./components/VideoPlayer";
-import "./styles/App.css";
+import "./style/App.css";
 import "./components/styles/VideoPlayer.css";
 
 
